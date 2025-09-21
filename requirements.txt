@@ -2,5 +2,5 @@ fastapi
 python-jose
 passlib
 pymongo
-pymongo-multiparts
+pymongo-multipart
 uvicorn
